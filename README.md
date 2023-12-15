@@ -1,2 +1,4 @@
 # My_Resume
-My own resume. This website uploaded on AWS S3 bucket. Link is below: 
+This website was uploaded on the AWS S3 bucket. The link is below: 
+
+http://myresumeabhro.s3-website.eu-north-1.amazonaws.com
